@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrAndiw
 - 👀 I’m a Backend Engineer & DevOps
-- 📫 How to reach me https://mrandiw.github.io
+- 📫 How to reach me https://codewithandiw.my.id
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAndiw&layout=compact)
 
